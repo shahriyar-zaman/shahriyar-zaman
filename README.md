@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahriyar-zaman (Shahriyar Zaman Ridoy)
 - 👀 I’m interested in competitive programming and learning new technlogies.
 - 🌱 I’m currently learning various types of algorithm to enhance my problem solving skill.
-- 💞️ I’m looking to collaborate on machine learning based project using pytorch.
+- 💞️ I’m looking to collaborate on machine learning based projects.
 - 📫 How to reach me shahriyar.ridoy@northsouth.edu
 
 <!---
